@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int N, k;
+    cin >> N >> k;
+    int x = 0;
+    for (int i = 0; i < N; i++) {
+        int l, r;
+        cin >> l >> r;
+        x += (r - l + 1);
+    }
+    cout << (k - (x % k)) % k << "\n";
+    return 0;
+}
