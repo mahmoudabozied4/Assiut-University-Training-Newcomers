@@ -318,6 +318,6 @@ Have questions? Open an [issue](https://github.com/mahmoudabozied4/Assiut-Univer
 
 **Happy Coding! 🚀**
 
-Made with ❤️ by competitive programming enthusiasts
+Made with ❤️ by Zied
 
 </div>
